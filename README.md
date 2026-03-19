@@ -1,4 +1,80 @@
 <p align="center">
+    <a href="https://www.xcoorp.com" target="_blank">
+        <img src="https://www.xcoorp.com/wp-content/uploads/2021/05/logo_xcoorp_340-300x56.png" width="400" alt="XCoorp Logo">
+    </a>
+</p>
+
+# 📦 Archiviertes Projekt:
+
+> **Hinweis:** Dieses Projekt wurde **archiviert** und ist nicht mehr aktiv in Entwicklung oder Betrieb.  
+> Es wird ausschließlich zu **Nachweiszwecken** gemäß **ISO/IEC 27001** aufbewahrt.
+
+---
+
+## 🔖 Projektdetails
+
+| Attribut | Beschreibung |
+|----------|--------------|
+| **Archivierungsdatum** | 19.03.2026  |
+| **Status** | Archiviert |
+| **Verantwortlich** | [Tobias Oitzinger](https://github.com/toitzi)/ Softwareentwicklung |
+| **Kontakt** | support@xcoorp.com |
+| **Letzte Aktivität** | 26.06.2024 |
+| **Archiviert durch** | [Michael Peck](https://github.com/mikexcoorp) / Geschäftsleitung |
+
+---
+
+## 📚 Zweck der Archivierung
+
+Dieses Repository wurde archiviert im Rahmen des Informationssicherheitsmanagementsystems (ISMS) nach **ISO/IEC 27001**, um die folgenden Anforderungen zu erfüllen:
+
+- **A.5.36**: Aufbewahrung und Entsorgung von Informationen
+- **A.7.12**: Klassifikation von Informationen
+- **A.8.10**: Protokollierung von Aktivitäten (falls relevant)
+- **A.8.11**: Überwachung (falls Logs enthalten sind)
+
+---
+
+## 🔐 Informationsklassifikation
+
+| Kriterium | Bewertung |
+|----------|-----------|
+| **Vertraulichkeit** | ☐ Öffentlich ☑ Interner Gebrauch ☐ Eingeschränkt |
+
+
+---
+
+## 🗃 Aufbewahrungsfrist
+
+| Kriterium | Wert |
+|----------|------|
+| **Beginn der Frist** | 19.03.2026 |
+| **Dauer** | 3 Jahre |
+| **Löschdatum** |  19.03.2029 |
+| **Löschverantwortlicher** | [Markus Lang](https://github.com/markwien) / Geschäftsleitung  |
+
+---
+
+## 🛑 Einschränkungen
+
+- Dieses Repository ist **read-only**.
+- Pull Requests oder Issues werden **nicht** mehr bearbeitet.
+- Nutzung auf eigene Verantwortung, keine Sicherheitsupdates mehr.
+
+---
+
+## ✅ ISO 27001 Verknüpfung
+
+Dieses Projekt ist Teil des ISO/IEC 27001 Asset Registers und dient als **Nachweisobjekt** für Audits und Reviews.
+
+---
+
+> Bei Fragen zur Archivierung oder zur Nutzung im Rahmen von Audits bitte an **Markus Lang mark@xcoorp.com** wenden.
+
+
+
+
+<p align="center">
 <a href="LICENSE"><img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
 <a href="composer.json"><img alt="Laravel Version Requirements" src="https://img.shields.io/badge/laravel-~10.0-gray?logo=laravel&style=flat-square&labelColor=F05340&logoColor=white"></a>
 </p>
